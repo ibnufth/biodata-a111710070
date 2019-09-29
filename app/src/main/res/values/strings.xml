@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">biodata</string>
+    <string name="nim">NIM : A11.2017.10070</string>
+    <string name="name">Nama : Ibnu Fathan</string>
+    <string name="foto">foto</string>
+    <string name="hobi">Hobi : Main Game, Coding, Rebahan</string>
+    <string name="deskripsi">
+        Deskripsi :\nSaya kuliah di Universitas Dian Nuswatoro, sedang menempuh semester 5, dan sedang menggambil mata kuliah Mobile Programing</string>
+    <string name="btn_telfon">Telfon Saya</string>
+    <string name="btn_emaill">Email saya</string>
+    <string name="btn_alamat">Alamat Saya</string>
+</resources>
